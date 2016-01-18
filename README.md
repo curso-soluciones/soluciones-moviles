@@ -1,11 +1,7 @@
 # Curso de  Soluciones-moviles
-Curso de soluciones móviles impartido con el framework ionic
+Curso de soluciones móviles impartido con Android Studio
 
-## Introducción
-El primer paso es instalar Node.js,[descárgalo de aquí](https://nodejs.org/en/), despues de instalarlo también tendrás que instalar Cordova,  éste se instala a través de la instalación de Node, para ello en una terminal ( línea de comandos) vas a ingresar
+Primero debes descargar e instalar Android Studio de [ éste sitio](http://developer.android.com/sdk/index.html), para emular los dispositivos móviles se recomienda que inmediatamente despés instales (sólo en windows) el [ cual lo puedes descargar de aquí](https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager/), un avezs instlado eso ya estás listo para el primer proyecto en android studio
 
-```javascript
-npm install -g cordova ionic
-```
+## Introducción a la arquietctuta de una aplicación en Android Studio
 
-## Primer proyecto tipo Hola Mundo
