@@ -4,5 +4,7 @@
     "keywords": ["util", "functional", "server", "client", "browser"],
     "author": "rapid",
     "contributors": [],
-    "dependencies": {}
+    "dependencies": {
+        "bootstrap":"3.x.x"
+    }
 }
